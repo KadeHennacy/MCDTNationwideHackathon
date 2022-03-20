@@ -1,0 +1,146 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyphotobookyt-dev-162940-authRole",
+      "UnauthRoleArn": "arn:aws:iam::127847013811:role/amplify-amplifyphotobookyt-dev-162940-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::127847013811:role/amplify-amplifyphotobookyt-dev-162940-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyphotobookyt-dev-162940-deployment",
+      "UnauthRoleName": "amplify-amplifyphotobookyt-dev-162940-unauthRole",
+      "StackName": "amplify-amplifyphotobookyt-dev-162940",
+      "StackId": "arn:aws:cloudformation:us-east-2:127847013811:stack/amplify-amplifyphotobookyt-dev-162940/32571640-df4f-11ea-83a2-0aff1dd11f0a",
+      "AmplifyAppId": "d1uy9de3dt3vmj"
+    },
+    "categories": {
+      "auth": {
+        "amplifyphotobookytd77f5a70": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1uy9de3dt3vmj",
+          "type": "manual"
+        }
+      }
+    }
+  },
+  "develop": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyphotobookyt-develop-203604-authRole",
+      "UnauthRoleArn": "arn:aws:iam::555162870781:role/amplify-amplifyphotobookyt-develop-203604-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::555162870781:role/amplify-amplifyphotobookyt-develop-203604-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyphotobookyt-develop-203604-deployment",
+      "UnauthRoleName": "amplify-amplifyphotobookyt-develop-203604-unauthRole",
+      "StackName": "amplify-amplifyphotobookyt-develop-203604",
+      "StackId": "arn:aws:cloudformation:us-east-2:555162870781:stack/amplify-amplifyphotobookyt-develop-203604/089ccd20-a4c1-11ec-8839-0615da69ae3e",
+      "AmplifyAppId": "d2mnxzbhn0eqkj"
+    },
+    "categories": {
+      "function": {
+        "AmplifyPhotoProcessor": {
+          "deploymentBucketName": "amplify-amplifyphotobookyt-develop-203604-deployment",
+          "s3Key": "amplify-builds/AmplifyPhotoProcessor-67326c43332f64655547-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2mnxzbhn0eqkj",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "amplifyphotobookytd77f5a70": {}
+      }
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyphotobookyt-test-133514-authRole",
+      "UnauthRoleArn": "arn:aws:iam::937481649054:role/amplify-amplifyphotobookyt-test-133514-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::937481649054:role/amplify-amplifyphotobookyt-test-133514-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyphotobookyt-test-133514-deployment",
+      "UnauthRoleName": "amplify-amplifyphotobookyt-test-133514-unauthRole",
+      "StackName": "amplify-amplifyphotobookyt-test-133514",
+      "StackId": "arn:aws:cloudformation:us-east-2:937481649054:stack/amplify-amplifyphotobookyt-test-133514/f1648b60-a7aa-11ec-8358-029d40c31bdc",
+      "AmplifyAppId": "d1zvbcak3o4at8"
+    },
+    "categories": {
+      "function": {
+        "AmplifyPhotoProcessor": {
+          "deploymentBucketName": "amplify-amplifyphotobookyt-test-133514-deployment",
+          "s3Key": "amplify-builds/AmplifyPhotoProcessor-67326c43332f64655547-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1zvbcak3o4at8",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "amplifyphotobookytd77f5a70": {}
+      }
+    }
+  },
+  "testtwo": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyphotobookyt-testtwo-174645-authRole",
+      "UnauthRoleArn": "arn:aws:iam::937481649054:role/amplify-amplifyphotobookyt-testtwo-174645-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::937481649054:role/amplify-amplifyphotobookyt-testtwo-174645-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyphotobookyt-testtwo-174645-deployment",
+      "UnauthRoleName": "amplify-amplifyphotobookyt-testtwo-174645-unauthRole",
+      "StackName": "amplify-amplifyphotobookyt-testtwo-174645",
+      "StackId": "arn:aws:cloudformation:us-east-2:937481649054:stack/amplify-amplifyphotobookyt-testtwo-174645/12c98120-a7ce-11ec-91ce-0a57575c8e4c",
+      "AmplifyAppId": "d1zvbcak3o4at8"
+    },
+    "categories": {
+      "function": {
+        "AmplifyPhotoProcessor": {
+          "deploymentBucketName": "amplify-amplifyphotobookyt-testtwo-174645-deployment",
+          "s3Key": "amplify-builds/AmplifyPhotoProcessor-67326c43332f64655547-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1zvbcak3o4at8",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "amplifyphotobookytd77f5a70": {}
+      }
+    }
+  },
+  "testthree": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyphotobookyt-testthree-195535-authRole",
+      "UnauthRoleArn": "arn:aws:iam::937481649054:role/amplify-amplifyphotobookyt-testthree-195535-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::937481649054:role/amplify-amplifyphotobookyt-testthree-195535-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyphotobookyt-testthree-195535-deployment",
+      "UnauthRoleName": "amplify-amplifyphotobookyt-testthree-195535-unauthRole",
+      "StackName": "amplify-amplifyphotobookyt-testthree-195535",
+      "StackId": "arn:aws:cloudformation:us-east-2:937481649054:stack/amplify-amplifyphotobookyt-testthree-195535/12288100-a7e0-11ec-909f-0a98aaa3812c",
+      "AmplifyAppId": "d1zvbcak3o4at8"
+    },
+    "categories": {
+      "function": {
+        "AmplifyPhotoProcessor": {
+          "deploymentBucketName": "amplify-amplifyphotobookyt-testthree-195535-deployment",
+          "s3Key": "amplify-builds/AmplifyPhotoProcessor-67326c43332f64655547-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1zvbcak3o4at8",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "amplifyphotobookytd77f5a70": {}
+      }
+    }
+  }
+}

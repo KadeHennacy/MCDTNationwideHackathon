@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authamplifyphotobookytd77f5a70"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "AWS_IAM"
+      }
+    ],
+    "conflictResolution": {},
+    "apiName": "AmplifyPhotosApi",
+    "gqlSchemaPath": "C:\\Users\\kadeh\\Desktop\\Nationwide\\BitbucketRepo\\photobook\\mcdtnationwidehackathon\\amplify\\backend\\api\\AmplifyPhotosApi\\schema.graphql"
+  }
+}
